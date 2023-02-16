@@ -20,12 +20,12 @@
 
 ### 진행사항
 
-[x] git repo 생성
-[x] eslint, prettier, ts 환경 세팅
-[x] main, feature로 나누기
-[x] dk PR 생성 진행해보기
-[ ] 간단한 함수 만들기
-[ ] jest 환경 설정
-[ ] jest로 간단한 테스트 진행
-[ ] nvm 활용하여 LTS node 사용하기
-[ ] LTS 버전과 같은 major 버전만 사용할 수 있게 설정
+- [x] git repo 생성
+- [x] eslint, prettier, ts 환경 세팅
+- [x] main, feature로 나누기
+- [x] dk PR 생성 진행해보기
+- [ ] 간단한 함수 만들기
+- [ ] jest 환경 설정
+- [ ] jest로 간단한 테스트 진행
+- [ ] nvm 활용하여 LTS node 사용하기
+- [ ] LTS 버전과 같은 major 버전만 사용할 수 있게 설정
