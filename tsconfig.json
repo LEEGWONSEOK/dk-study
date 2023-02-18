@@ -7,9 +7,9 @@
     "target": "es5",
     "lib": ["es2020"],
     "esModuleInterop": true,
-    "outDir": "dist/",
+    "outDir": "./dist",
     "moduleResolution": "node",
     "typeRoots": ["./node_modules/@types", "./src/custom-type"]
   },
-  "include": ["src/*.ts"]
+  "include": ["src/*.ts", "test/**/*", "jest.config.ts"]
 }
